@@ -2,7 +2,7 @@
 
 This is more mobile-friendly version of tldp.org's "Text Terminal HOWTO".
 
-The original HTML source is at http://www.tldp.org/HOWTO/html\_single/Text-Terminal-HOWTO/ .
+The original HTML source is at http://www.tldp.org/HOWTO/html%20single/Text-Terminal-HOWTO/ .
 
 Changes to the source:
 - Added a &lt;meta name="viewport"&gt; tag to the HTML file
