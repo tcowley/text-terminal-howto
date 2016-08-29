@@ -1,6 +1,6 @@
 ## Mobile-friendly version of the "Text Terminal HOWTO"
 
-This is more mobile-friendly version of tldp.org's "Text Terminal HOWTO".
+This is more mobile-friendly version of David S. Lawyer's "Text Terminal HOWTO".
 
 The original HTML source is at http://www.tldp.org/HOWTO/html_single/Text-Terminal-HOWTO/ .
 
