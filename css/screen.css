@@ -12,6 +12,8 @@
         box-sizing: border-box;
         width: 100%;
         overflow-x: auto;
+        line-height: 1.3em;
+        font-size: 1.1em;
     }
 
     blockquote {
