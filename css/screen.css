@@ -2,6 +2,30 @@ ul, p {
     line-height: 1.3em;
     font-size: 1.2em;
 }
+
+#toc-link {
+    box-sizing: border-box;
+    position: fixed;
+    top: 0;
+    xwidth: 20%;
+    height: 2em;
+    right: 0;
+    line-height: 2em;
+    background: #eee;
+    border-left: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    text-align: right;
+    padding: 0 1em;
+    z-index: 2000;
+}
+
+#toc-link:before {
+    content: 'Table Of Contents';
+    box-sizing: border-box;
+    display: block;
+}
+
+
 @media screen and (max-width: 800px) {
     pre {
         padding: .3em;
@@ -23,4 +47,9 @@ ul, p {
     blockquote {
         margin: 0!important;
     }
+    
+    #toc-link:before {
+        content: 'TOC';
+    }
+    
 }
