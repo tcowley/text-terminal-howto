@@ -1,3 +1,7 @@
+ul, p {
+    line-height: 1.3em;
+    font-size: 1.2em;
+}
 @media screen and (max-width: 800px) {
     pre {
         padding: .3em;
